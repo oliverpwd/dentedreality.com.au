@@ -1,0 +1,8 @@
+public/
+resources/
+scripts/.extract-state.json
+extraction.log
+extraction.pid
+__pycache__/
+*.pyc
+.hugo_build.lock
