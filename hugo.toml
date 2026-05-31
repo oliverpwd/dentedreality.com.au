@@ -1,5 +1,5 @@
 baseURL = "https://dentedreality.com.au/"
-languageCode = "en-us"
+locale = "en-US"
 title = "Dented Reality"
 subtitle = "An aggregation of Beau Lebens on the internet"
 
