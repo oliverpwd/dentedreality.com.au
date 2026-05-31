@@ -1,0 +1,51 @@
+{{ define "main" }}
+<div id="primary" class="site-content">
+  <div id="content" role="main">
+    <article class="{{ if and .Params.format (ne .Params.format "standard") }}f-{{ .Params.format }}{{ end }}">
+      {{ if eq .Params.format "link" }}
+        <span class="icon-link format-icon"></span>
+      {{ else if eq .Params.format "image" }}
+        {{ with .Params.image }}
+          <div class="image-grouping"><img src="{{ . }}" alt="{{ $.Title }}"></div>
+        {{ end }}
+      {{ else if eq .Params.format "status" }}
+        <span class="icon-location format-icon"></span>
+      {{ end }}
+      <div class="post {{ with .Params.service }}keyring_services-{{ . }}{{ end }}">
+        <header class="entry-header">
+          <h1 class="entry-title">
+            {{ if .Params.external_url }}
+              <a href="{{ .Params.external_url }}">{{ .Title }}</a>
+            {{ else }}
+              {{ .Title }}
+            {{ end }}
+          </h1>
+          {{ with .Params.external_url }}
+            <div class="post-format-link-url"><a href="{{ . }}">{{ . }}</a></div>
+          {{ end }}
+          {{ with .Params.tags }}
+            <ul class="tags">
+              {{ range . }}
+                <li class="tag"><span class="hash">#</span><a href="/tags/{{ . | urlize }}/">{{ . }}</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </header>
+        <div class="entry-content">
+          {{ .Content }}
+        </div>
+        <footer class="entry-meta">
+          {{ with .Params.service }}
+            <span class="post-source">via {{ . }}</span>
+          {{ end }}
+          <a href="{{ .Permalink }}" class="permalink">
+            <time datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00" }}">
+              {{ .Date.Format "3:04 pm, January 2, 2006" }}
+            </time>
+          </a>
+        </footer>
+      </div>
+    </article>
+  </div>
+</div>
+{{ end }}

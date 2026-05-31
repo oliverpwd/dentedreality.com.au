@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} — Feed" href="/index.xml">
+</head>
+<body class="{{ if .IsHome }}home{{ end }}">
+  <header id="masthead">
+    <hgroup>
+      <h1 class="site-title"><a href="/" rel="home">{{ .Site.Title }}</a></h1>
+      <h2 class="site-description">{{ .Site.Params.description }}</h2>
+    </hgroup>
+    <nav class="main-navigation">
+      <ul class="menu">
+        <li><a href="https://beau.blog/">Blog</a></li>
+        <li><a href="/">Archive</a></li>
+        <li><a href="/explore/">Explore</a></li>
+        <li><a href="/projects/">Projects</a></li>
+      </ul>
+    </nav>
+  </header>
+  <div id="page">
+    <div id="main">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </div>
+  <footer class="site-footer">
+    <p>Dented Reality &mdash; an archive of Beau Lebens on the internet</p>
+  </footer>
+</body>
+</html>

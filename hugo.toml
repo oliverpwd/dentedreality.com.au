@@ -1,0 +1,24 @@
+baseURL = "https://dentedreality.com.au/"
+languageCode = "en-us"
+title = "Dented Reality"
+subtitle = "An aggregation of Beau Lebens on the internet"
+
+[params]
+  description = "An aggregation of Beau Lebens on the internet"
+  author = "Beau Lebens"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  service = "services"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+  pagerSize = 20
+
+[outputs]
+  home = ["HTML", "RSS"]

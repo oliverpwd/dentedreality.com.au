@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div id="primary" class="site-content">
+  <div id="content" role="main">
+    <div id="timeline">
+      {{ range .Paginator.Pages }}
+        {{ partial "article.html" . }}
+      {{ end }}
+    </div>
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</div>
+{{ end }}
