@@ -1,8 +1,49 @@
 {{ define "main" }}
 <div id="primary" class="site-content">
   <div id="content" role="main">
-    <h1>Page not found</h1>
-    <p>The page you're looking for doesn't exist. Try <a href="/">browsing the archive</a>.</p>
+    <article>
+      <header class="entry-header">
+        <h1 class="entry-title">Page not found</h1>
+      </header>
+      <div class="entry-content">
+        <p>The page you're looking for doesn't exist or may not have been archived. Here are some ways to find what you're after:</p>
+        <ul>
+          <li><a href="/">Browse the archive timeline</a></li>
+          <li><a href="/categories/">Browse by category</a></li>
+          <li><a href="/posts/">All posts</a></li>
+        </ul>
+        <noscript><p>Enable JavaScript for automatic redirect suggestions.</p></noscript>
+      </div>
+    </article>
   </div>
 </div>
+<script>
+(function() {
+  // Try to find the closest matching page based on the URL path
+  var path = window.location.pathname;
+
+  // Strip trailing slash and query params
+  path = path.replace(/\/$/, '').replace(/\?.*$/, '');
+
+  // If it looks like a date-based post URL, try to navigate to the year/month
+  var dateMatch = path.match(/^\/(\d{4})\/(\d{2})/);
+  if (dateMatch) {
+    var year = dateMatch[1];
+    var month = dateMatch[2];
+    var suggestion = document.createElement('p');
+    suggestion.innerHTML = 'This looks like a post from <strong>' + year + '</strong>. ' +
+      '<a href="/posts/">Browse all posts</a> to find it.';
+    document.querySelector('.entry-content').insertBefore(suggestion, document.querySelector('.entry-content ul'));
+  }
+
+  // If it looks like a tag URL, suggest the homepage
+  if (path.match(/^\/tags?\//)) {
+    var tag = path.split('/').pop();
+    var suggestion = document.createElement('p');
+    suggestion.innerHTML = 'Tag pages are not currently available. ' +
+      '<a href="/">Browse the timeline</a> to find related content.';
+    document.querySelector('.entry-content').insertBefore(suggestion, document.querySelector('.entry-content ul'));
+  }
+})();
+</script>
 {{ end }}

@@ -1,2 +1,16 @@
+# RSS feeds
 /feed/  /index.xml  301
 /feed   /index.xml  301
+/comments/feed/  /index.xml  301
+
+# Old WordPress paths
+/wp-content/*  https://dentedreality-content.s3.amazonaws.com/wp-content/:splat  301
+/wp-admin/*    /  301
+/wp-login.php  /  301
+/xmlrpc.php    /  301
+
+# Service filter pages (from original nav)
+/service/*     /  301
+
+# Tag pages (disabled to stay under CF Pages file limit)
+/tags/*        /  302
