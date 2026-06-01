@@ -8,9 +8,9 @@ subtitle = "An aggregation of Beau Lebens on the internet"
   author = "Beau Lebens"
 
 [taxonomies]
-  tag = "tags"
   category = "categories"
   service = "services"
+  # tag = "tags"  # Disabled: tag pages generate 17k+ files, exceeding CF Pages free tier (20k limit)
 
 [markup]
   [markup.goldmark]
@@ -18,7 +18,7 @@ subtitle = "An aggregation of Beau Lebens on the internet"
       unsafe = true
 
 [pagination]
-  pagerSize = 20
+  pagerSize = 100
 
 [outputs]
   home = ["HTML", "RSS"]
