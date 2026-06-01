@@ -1,0 +1,46 @@
+---
+title: Mobile 2.0
+date: '2017-02-10T14:47:38+00:00'
+format: link
+service: instapaper
+tags:
+- read
+external_url: http://ben-evans.com/benedictevans/2017/1/30/mobile-20
+---
+
+[Mobile 2.0](http://ben-evans.com/benedictevans/2017/1/30/mobile-20)  
+
+
+
+In 2004, ten years after Netscape launched, Tim O’Reilly launched the ‘Web 2.0’ conference, proposing (or branding) a generational shift in how the web worked. There were lots of trends, and none of them really started in 2004, but to me, looking back, the key thing was that people said ‘if we forget about dial-up and forget about supporting old and buggy web browsers, and presume that lots of people are online and have got used to this stuff now, what can we build now that we couldn’t build before?’
+
+Not everyone had broadband and not everyone had a new computer with a modern browser, but enough people did that you could think about setting aside the constraints of a 14.4k modem and a table-based static web page and start building something new. And enough people were online, and knew lots of other people that were too, for social models to start working. Flickr had no less than 1.5m users when Yahoo bought it in 2005, which seemed like a lot at the time.
+
+Today, ten years after the iPhone launched, I have some of the same sense of early constraints and assumptions being abandoned and new models emerging. If in 2004 we had ‘Web 2.0’, now there’s a lot of ‘Mobile 2.0’ around. If Web 2.0 said ‘lots of people have broadband and modern browsers now’, Mobile 2.0 says ‘there are a billion people with high-end smartphones now’\*. So, what assumptions are being left behind? What do you do differently if you assume not just the touch screen from 2007 but unlimited battery and bandwidth (around half of smartphone use in developed markets is on wifi and mobile networks are 10x faster), high-DPI screens, a CPU and GPU 100x faster than PCs in 1994, and lots of high-quality image sensors?
+
+The easiest place to see a shift is in interfaces. Although Facebook pivoted to building ‘native’ on mobile, pretty much all of its mobile experiences could actually be navigated with a mouse and keyboard – indeed, probably with just the tab key. That’s native code but not, perhaps, a native interface. Conversely, the most interesting new apps have interfaces that embrace more and more of what’s different about a smartphone, and especially a high-end smartphone. So they use swiping as primary navigation, not just for scrolling a list, and touch for things a mouse could never do; they use GPUs for transparency and effects that would have been beyond a 2007 PC, never mind a phone; and they use the image sensors, often combined with touch, as a primary input, on equal terms with the keyboard. Combining all of these, you often get an experience that would make no sense at all to try to build on the desktop – not so much mobile first as mobile only.
+
+The smartphone’s image sensor, in particular, is becoming a universal input, and a universal sensor. Talking about ‘cameras’ taking ‘photos’ misses the point here: the sensor *can* capture something that looks like the prints you got with a 35mm camera, but what else? Using a smartphone camera just to take and send photos is like printing out emails – you’re using a new tool to fit into old forms. In that light, simple toys like Snapchat’s lenses or stories are not so much fun little product features to copy as basic experiments in using the sensor and screen as a single unified input, and in creating quite new kinds of content. Meanwhile, the emergence of machine-learning-based image recognition means that the image sensor can act as input in a more fundamental way – translation is now an imaging use case, for example, and so is [maths](https://photomath.net/en/). Here it’s the phone that’s looking at the image, not the user. Lots more things will turn out to be ‘camera’ use cases that aren’t obvious today: computers have always been able to read text, but they could never read images before.
+
+
+
+
+Combining the camera with touch means that creation becomes about imaging, video and motion – about richness and fun. But this works both ways – the ‘content’ consumed in social apps also now looks much more like video than text, but not video in the sense of TV or YouTube, but rather in ways to bring motion and deeper engagement. Video is the new HTML, or the new Flash – the new file format for delivering much richer kinds of content. Naturally, this again requires that we presume fast CPUs and GPUs, fast networks and unlimited data. And of course, this isn’t consumed in the browser anymore, but, mostly, inside the top half-dozen social platforms – indeed so much browsing happens inside Facebook’s newsfeed app that it’s effectively the most popular mobile ‘web browser’.
+
+
+
+
+Having said ‘video’ is the new HTML, though, in fact each of these platforms has developed its own content format centred on its own priorities. For Snapchat the priority is richness, so its content format centres on video (or what looks like video), whereas since loading speed matters more for Google it created AMP, and Facebook created Instant Articles for the same reason. For all of these content formats, publishers get offered an experience (faster landing for AMP, richer content for Snapchat) only if they use the platform’s own proprietary tools. You give them your content, they tell you how, give you an audience, tell you what the audience was (if they get the sums right) and tell you how (or perhaps if) you can make money.
+
+Amongst other things, this is to suggest that the changes in experience that mobile enables are one reason for the current concentration of use in the leading services. Certainly, that concentration is itself a significant shift. One could argue that this reflects the ‘white space’ being filled up: just as there was a wave of companies that leveraged social and search a decade ago and filled in the clear opportunities, so the same has happened on mobile, leaving fewer and fewer gaps. Alternatively, you can look at this as part of the way that tech swings from bundling to unbundling: AOL bundled content, the web unbundled AOL, Google bundled the web, apps unbundled properties from the browser, but also bundled each site into a single icon, and now these platforms form new bundles. The pendulum will swing back the other way again, at some point. And in parallel, one could argue that Snapchat itself unbundled not ‘photos’ but fun and self-expression from Facebook.
+
+And, of course, this bundling is exactly what the app stores themselves do: they decide what you can do, how you can do it and (to varying degrees) how you can make money, and part of the point of things like Facebook’s bots platform was the attempt to shift some of that underlying power away from Apple and Google – if you don’t own a smartphone platform yourself, how do you get leverage? So far, this has worked much, much better for content than for ‘apps’ – the social distribution model works with content in a way that it has not worked to supplant app stores (except in China, arguably).
+
+
+
+
+You can also see these bundling and leverage questions in the cluster of new little devices that orbit the smartphone. Snapchat Spectacles or Amazon’s Echo (like Apple’s AirPods) come from different sides of the brain, but they’re both about more than just taking a commodity smartphone component and wrapping it in plastic – they unbundle a piece of a smartphone app and move it into a new context. You don’t have to fumble for your phone to record that moment, or to ask what two cups of flour means in kilos. But you also don’t decide which app to share that video on, nor decide what brand Alexa will send when you say ‘I need more soap’. So, as for bots, there is a platform power play here, and for me the fact that Alexa uses ‘voice’ is less interesting that its overlap with Spectacles – the way that both try to unbundle a smartphone, and create a new, independent end-point for the cloud that they can own themselves.
+
+These devices also, perhaps, point to what might come after ‘Mobile 2.0’. Web 2.0 was followed not by anything one could call 3.0 but rather a basic platform shift, as the iPhone triggered the move from desktop to mobile as the centre of tech. AirPods, Spectacles, watches and Alexa also reflect or perhaps prefigure platform shifts. In some of them, on one hand, one can see the rise of machine learning as a fundamental new enabling technology, and in some, on the other hand, more and more miniaturisation and optimisation of computing. I think one can see quite a lot of hardware building blocks for augmented reality glasses in some of Apple’s latest little devices, and AR does seem like it could be the next multi-touch, while of course machine learning is also part of that, as computer vision and voice recognition. So the things that are emerging at the end of the mobile S-Curve might also be the beginning of the next curve.
+
+*\* Globally, around 5bn people have a mobile phone, 2.5bn have a smartphone of some kind (not necessarily with a large data allowance or easy access to charging) and around 1bn, perhaps more, have a high-end smartphone. There are 650-700m iPhones in use.*

@@ -1,0 +1,31 @@
+---
+title: Metaverse! Metaverse? Metaverse!! — Benedict Evans
+date: '2021-10-13T21:04:02-06:00'
+format: link
+service: instapaper
+tags:
+- read
+external_url: https://www.ben-evans.com/benedictevans/2021/10/9/metaverse-metaverse-metaverse
+---
+
+[Metaverse! Metaverse? Metaverse!! — Benedict Evans](https://www.ben-evans.com/benedictevans/2021/10/9/metaverse-metaverse-metaverse)  
+
+
+
+Over and over again, the tech industry asks ‘what’s the next cycle?’ Smartphones were the locomotive that drove the industry and all the innovation for 15 years, but now 4.5-5bn people have a smartphones and the market is mature, so what’s the next fundamental trend? Crypto people don’t ask – they know it’s crypto – but everyone else in tech thinks that crypto is almost certainly a thing but not necessarily the thing, and wonders what else might come together.
+
+In parallel, there’s always a hunt for a new movement or a new word – some way to describe a set of apparently unrelated trends and conceptualise and bundle them into a single narrative. ‘[Web 2.0](https://www.oreilly.com/pub/a/web2/archive/what-is-web-20.html)’ did this very well in the mid-2000s, giving us a way to think about all the different things that were emerging from the wreckage of the Dotcom bubble, and when terms like this work best, they can as much create as describe the trend. Crypto people are now trying ‘Web3’ as a conscious reference to Web 2.0, and as a way to describe and perhaps create the direction of travel for actual real products on top of the raw tech. There are plenty of other terms floating round at the moment as well – ‘creator economy’ has bubbled up this year.
+
+But the one term that’s exploded beyond others, and broken out of tech twitter into pitch decks at IT outsourcing companies with amazing speed, is ‘Metaverse’, which I hear so often now that it reminds me of the ‘[Malkovich! Malkovich? Malkovich!](https://www.youtube.com/watch?v=Q6Fuxkinhug)’ scene in ‘Being John Malkovich’. Microsoft even has ‘enterprise metaverse’ slideware. Like all the best buzzwords, ‘metaverse’ tries to link together lots of interesting things – in this case, VR, AR games and crypto. But, all of these are questions.
+
+Facebook has bet big on AR and VR as the next smartphone (and as potential liberation from Apple’s control), so Mark Zuckerberg has naturally started saying metaverse a lot. But VR today seems to be at risk of stalling out as no more than a subset of hardcore games. We have a great consumer device but we don’t have any other use cases, and indeed some games people would argue that VR isn’t even working in games. More Moore’s Law might solve that, but this is not self-evident. AR, on the other hand, is still science rather than tech – a pair of glasses that can put things into the world that look as though they’re really there sounds like a pretty good idea, but there are serious unsolved optics questions and we don’t know when or if Apple or anyone else can solve them. But either way, in the metaverse, you wear the display and it shows you things, and a lot of that might be games, and very new kinds of games.
+
+Hence, the second thesis, quite widespread in tech today, is that games will, so to speak, break out of games. Hardcore, rich, immersive games have always been a big business, but more people use Snapchat than games consoles – games are not universal. Now people wonder if some combination of the ideas behind Roblox and Fortnite, with their open worlds, open creativity and cross-over with other kinds pop culture, might lead to a fundamental change. (It might also create more VC-investible companies). In the metaverse, this also merges with VR and AR – VR and AR break out and games break out together, into the real world and into popular culture much more broadly than before.
+
+The final pixie dust to tie all this together is NFTs – this year’s set of ideas for how crypto can get from pipes and rails to applications – to a Netscape moment. Can NFTs, money, creators, collectibles, games, tokens and skins provide a new economic, incentive and experience layer that ties together games, VR, place, identity and broader popular culture? Do you buy an NFT of the new Rihanna outfit as an skin for your AR avatar? Do people see it hovering over you as you walk into the room? Is this the future of one-upmanship?
+
+That’s a lot of buzzwords in one place, and meanwhile games people, like art people, don’t see any problem in their world that NFTs solve (Jordan Belfort, on the other hand…), neither games nor VR actually *have* broken out in this sense, and you can’t buy AR glasses yet. Indeed, you can’t buy ‘metaverse’ at all today.
+
+So, all of this is rather like standing in front of a whiteboard in the early 1990s and writing words like interactive TV, hypertext, broadband, AOL, information services, and maybe video and games, and then drawing a box around it and labelling the box ‘information superhighway’. That vision of all consumers everywhere being connected to something was entirely correct, but not like that, and many of those components were blind alleys. ‘Metaverse’ today is again a label for a bunch of words on a whiteboard, some of which are more real than others, and which might well all end up combined, but not necessarily like that. It can also mean whatever you want it to mean – I’m sure other people have definitions that don’t entirely overlap with mine.
+
+But the nature of our interactions with software, entertainment, experiences, displays and, yes, money, is still very early. The iPhone is only 14 years old and we are still growing up with ubiquitous computing. Deterministically, there must be new forms of entertainment, new kinds of screens, and new ways to break down and recombine ideas of what ‘games’, ‘media’ and ‘software’ mean and how they relate to identity, self-expression and popular culture. This might all end up like the information superhighway, but, as Lord Dacre said, ‘history teaches us nothing except that something will happen’.

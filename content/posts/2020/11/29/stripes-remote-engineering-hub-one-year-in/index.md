@@ -1,0 +1,85 @@
+---
+title: Stripe’s Remote Engineering Hub, One Year In
+date: '2020-11-29T22:54:44-07:00'
+format: link
+service: instapaper
+tags:
+- read
+external_url: https://stripe.com/blog/remote-hub-one-year
+---
+
+[Stripe’s Remote Engineering Hub, One Year In](https://stripe.com/blog/remote-hub-one-year)  
+
+
+
+Last May, Stripe [launched](https://stripe.com/blog/remote-hub) our remote engineering hub, a virtual office coequal with our physical engineering offices in San Francisco, Seattle, Dublin, and Singapore. We set out to hire 100 new remote engineers over the year—and did. They now work across every engineering group at Stripe. Over the last year, we’ve tripled the number of permanently remote engineers, up to 22% of our engineering population. We also hired more remote employees across all other teams, and tripled the number of remote Stripes across the company.
+
+Like many organizations, Stripe has temporarily become [fully remote](https://stripe.com/newsroom/news/covid-19) to support our employees and customers during the COVID-19 pandemic. Distributed work isn’t new to Stripe. We’ve had remote employees since inception—and formally began hiring remote engineers in 2013. But as we grew, we developed a heavily office-centric organizational structure. Last year, we set out to rebalance our mix of remote and centralized working by establishing our virtual hub. It’s now the backbone of a new working model for the whole company.
+
+We think our experience might be interesting, particularly for businesses that haven’t been fully distributed from the start or are considering flipping the switch to being fully remote, even after the pandemic. We’ve seen promising gains in how we communicate, build more resilient and relevant products, and reach and retain talented engineers. Here is what we learned.
+
+## Deploying engineers closer to customers has been a boon
+
+One of our goals in establishing the remote hub was to connect more closely with our customers. A year ago, when an overwhelming majority of our engineering staff was located in two cities, it was more difficult to support a global user population with products that felt locally native in supporting commerce. Now, for example, our Developer Support Engineering team is distributed across three continents—and two thirds of the team operate outside of a Stripe office. Units within the team own one of four coverage areas (each spans approximately six time zones), enabling them to provide more timely, local support to users, as well as run uniform, simultaneous, and regionally resonant customer events around the world. We feel closer to customers because we literally are.
+
+This shift has markedly influenced our product development roadmaps. We’ve made substantial improvements to support non-card payment methods throughout our product suite. Back in the day, we referred to these internally as “alternative payment methods” because from the perspective of someone living in San Francisco, that is accurate. However, for many of our global users, *credit cards* are the alternative still crossing the chasm to mass acceptance. Commerce is global, but the payment experience is local.
+
+We built [Checkout](https://stripe.com/payments/checkout) to maximize conversion by intelligently prioritizing which payment methods are presented to the customer depending on where they’re located. Whether in [Mexico](https://stripe.com/newsroom/news/stripe-launches-mexico) or [Malaysia](https://stripe.com/newsroom/news/malaysia-launch), a company’s checkout experience should feel local and include the payment methods customers are most likely to prefer. One way to more naturally build in local considerations into global products is if they’re built by remote, distributed teams. One member of the Checkout team launched a local push payment method from Singapore and another shipped address collection from Maryland. Given the nature of Checkout, we hypothesize that the more distributed the team becomes, the closer we get to the needs and mindsets of more users.
+
+## Cultural improvements to support remote work have spilled over
+
+We approached the building of our remote hub, in many ways, like any one of our [other engineering hubs](https://stripe.com/blog/dublin-eng-office) around the world. The standards and investments we’ve established for other Stripe offices have ported over well to our remote hub. We nominated a site lead ([Aditya Mukerjee](https://github.com/chimeracoder) for the first year) to be responsible for the overall happiness and productivity of the hub. We ensure that our leadership regularly visits the hub via Zoom meetings to lead discussions, answer questions, and provide a sense of connection. We encourage virtual coffee chats to promote a sense of belonging. We survey the team regularly and review feedback and people data, so that we can understand both the shared needs of our employees and the particular needs of a hub.
+
+Our remote hub’s organizational infrastructure enabled us to run experiments on individual engineering teams to determine how to best integrate remote engineers—and then horizontally scale the ones which generated notable successes. We still have more to discover, but have been seeing some themes emerge.
+
+**One is the loneliest number.** The typical engineering team at Stripe has five to eight engineers. When only one member of that team is remote, they often suffer a combination of isolation (both socially and with respect to work-related decision making) and organizational burden (because they are effectively responsible for rearchitecting the team’s processes to be remote-friendly in addition to doing their actual job). Instead, moving multiple remote engineers simultaneously onto a team has yielded much better results for their productivity and happiness. This shift acts as a forcing function to support asynchronous communication, better distribute the workload, and accelerate the adoption of team norms to socially include all members.
+
+One of our remote engineering teams works on invoices for our billing product. Previously, the invoices team was based out of our San Francisco headquarters. Over the last year, it has expanded to nine members distributed across nine cities and two countries, with an engineering manager based out of North Carolina, three time zones away from headquarters. The team has delivered significant improvements to Stripe’s invoicing products and quintupled their growth.
+
+The invoices team, including one headquarters-based engineer, operates remote-first. Product and architectural decisions are documented in writing, code review SLAs account for time zone differences, and they set aside intentional time each week to connect with one another. Recurring meetings are prized time, as one of the only synchronous touchpoints the team members have together, but if there’s no agenda, the team is ruthless about canceling it. It’s the time slot that’s sacred; the discussions must be intentional. The team embraces ad-hoc meetings and pairing time to unblock decisions or work through complex technical problems.
+
+We have also seen a flowering of cultural rituals. Teams find new ways to take a break together. Everyone might do individual tea orders and then post photos in their Slack channel or snack together on Zoom. Scheduled unstructured hangout sessions have also multiplied. We’ve seen parallel #TEAM-social channels adjacent to most #TEAM-work channels on Slack so that team members have an outlet to post about kids, hobbies, and other watercooler banter subjects without feeling like they’re intruding on a workspace. We’ve also experimented with entirely virtual offsites, particularly the bonding component. One team ran a simulated lunar crash exercise that required participants to collectively identify and rank the most critical tools needed to survive. We do not yet have any extraplanetary remotes (but watch this space).
+
+**Better tooling and communication norms have paid dividends.** We rely on onboarding to set the tone for an employee’s relationship with the company, their team, and their work. An unexpected benefit to onboarding cohorts of remote engineers was that we got better at supporting engineers everywhere. Our onboarding curriculum became more polished and efficient, given the limited window of the work day shared by regionally scattered remote employees. We moved as many tasks as possible from synchronous batches to asynchronous processing via written documentation, videos, or small groups sharing time zones. These changes reduce the ramp-up time and friction for remote employees, as well as streamline traditional in-person onboarding.
+
+When onboarding gets more efficient and asynchronous, teams can scale independently and at a faster rate. Over the past year, we’ve grown small engineering teams in offices like Tokyo and much larger engineering teams in all our engineering hubs. Those teams have quickly advocated for and brought to market locally-relevant products. Recently, engineers based in Japan and Latin America worked together to enhance local payment rails so that users could receive funds in a few working days rather than a month.
+
+We have invested substantially in internal tooling and explicit communication norms to support the productivity of remote engineers. This includes tooling to coordinate deploys for our most sensitive systems (so that engineers don’t have to synchronously coordinate in-person), incident management tooling which rapidly spins up a virtual response room on demand, and socializing shared scheduled memos rather than daily in-person standups to help engineers stay informed about teammates’ work.
+
+Efforts like these turned out to be critical during our [COVID-19 response efforts](https://stripe.com/covid-19). We closed all of our offices worldwide and worked to support users going through extremely heterogeneous shocks to their business models, ranging from surges in demand and transactions for delivery startups to cash-flow challenges as demand dried up and refunds spiked for travel companies.
+
+This would have, candidly, been extremely difficult for Stripe a few years ago, and is still not easy by any stretch of the imagination. But we continue to develop and ship new products, thanks in part to an increased focus on supporting remote engineers last May. Earlier this year, we wouldn’t have guessed that early preparations undertaken to support a fraction of our engineers would benefit *all* our engineers—and the rest of Stripe.
+
+**We are tapping pools of candidates we could not reach before.** Stripe, like all software companies, depends on having talented engineers from a wide range of life experiences, professional backgrounds, and seniority levels. We have found that increasing our population of remote engineers has helped to improve our company along several of these dimensions.
+
+One demographic we have noticed interact interestingly with remote-friendly policies is engineers with family responsibilities. They often need to make hard choices about which housing markets to live in to support their family *and* their career. When we had fewer remote roles, we unwittingly narrowed our applicant pool of engineers with families, and missed hiring talented engineers. We also occasionally had engineers leave to favor their partners’ career aspirations, which sometimes required moving away from cities we had offices in. Our expanded ability to hire and retain engineers from many more places enables us to attract many talented engineers who don’t feel that working for us would require unpalatable tradeoffs.
+
+We built our remote hub by initially seeking out engineers with significant experience working remotely; this naturally led us to hire more seasoned engineers. Similarly, we’ve seen anecdotal shifts in the composition of professional experience across engineers. Stripes in San Francisco have often had most of their professional experience at startups or in large consumer Internet companies, because those sorts of companies employ most engineers in San Francisco. We now hire engineers in cities where financial companies, larger enterprises, and agencies hire larger swaths of the engineering population. This helps us incorporate more DNA from their practices and informs how we build products for adoption for those sorts of companies.
+
+Last May, we focused on hiring remote engineers, product managers, engineering managers, and technical program managers. But once we were able to support those roles remotely, Stripes across the company started to transition from working in our offices to doing their jobs remotely. They span teams and seniority, and among their ranks are tenured leaders and engineering interns. (This summer, we’re running an entirely remote intern program for 76 engineering interns.)
+
+There are now hundreds of remote Stripes across our engineering and business teams. Three out of four teams at Stripe have at least one remote worker.
+
+## We are increasing our investment
+
+Our experience developing our remote hub this past year has exceeded our expectations. We continue to test and trial remote work across Stripe, but it’s no longer an experiment. We will accelerate our investment in remote Stripes and the growth of the remote hub. Here’s how:
+
+**We are broadening the positions for which we will hire remotely.** Last year, we intended to hire a mix of engineering individual contributors, engineering managers, and non-engineering technical roles such as product managers and designers into our remote hub. As of the publish date of this post, we now have open, remote roles on our design, legal and marketing teams.
+
+We support this bottom-up transformation with more explicit company-wide direction so that we can meet our goals in remote hiring across technical and non-technical functions alike. We expect the number of remote-eligible roles will continue to grow; changes caused by COVID-19 are accelerating this transition.
+
+**We have increased the places we can hire remotely from.** Today, Stripes are based in over 50 cities worldwide. We now have the capability to hire remote employees in Australia, Brazil, Canada, France, Germany, India, Indonesia, Ireland, Japan, Mexico, Netherlands, Singapore, Sweden, UK, and the U.S. We’re setting the foundation for remote hiring in many more countries, but are rate limited on hiring remotes in countries where we don’t already have an office presence. In those cases, we need to tackle substantial legal and logistical challenges on a country-by-country, city-by-city, and sometimes neighborhood-by-neighborhood basis. Other organizations seeking to increase remote hires will have to grapple with people systems and disparate tax regimes.
+
+This is a fractally complex project and has variable lead times depending on the jurisdictions involved, where you have preexisting legal or business infrastructure to leverage, and what compromises you are willing to make prior to onboarding employees in a jurisdiction. To satisfy these requirements, companies inevitably need to manage parallel hiring systems to support on-site and remote employees; common standards would accelerate the world’s migration to remote work. As an example, Stripe must be able to issue equity before we make offers in a jurisdiction, whereas many other employee benefits can roll out more gradually.
+
+**We are improving the quality of life for remote engineers.** We care that all of our employees have a successful experience at Stripe. To gauge this, we run bi-annual surveys. In our latest one, we found that, compared to non-remote employees, remote Stripes are more likely to have a sense of connection to their team, balance their workload and life demands, and stay longer at Stripe. Remote Stripes score lower when asked whether Stripe fosters a sense of connection for employees in their location. However, 77% said that their location is not a barrier to having an impact at Stripe, a 10% increase from a year ago.
+
+Our goal in the coming year is to ensure remote engineers feel at a minimum the same level of impact, team connectedness, and velocity in career progression as any other engineer.
+
+## We want to talk to you
+
+We’re looking for [new colleagues](https://stripe.com/jobs/search) to join us. Here are the [remote positions](https://stripe.com/jobs/search?gh_src=14f171ca1&l=remote); more will be added over the coming year.
+
+Do you have questions about our remote engineering hub or its open roles? Our CTO, David Singleton, will lead a remote coffee chat on September 9 at 8:30am PT with remote Stripes Patrick McKenzie, Jamie Kite, and Aditya Mukerjee to talk about our remote hub. [Sign up](https://stripe.events/remotecoffeechat) for the event to attend.
+
+Like this post? Join the Stripe remote engineering hub. [View openings](https://stripe.com/jobs/search?gh_src=14f171ca1&l=remote)

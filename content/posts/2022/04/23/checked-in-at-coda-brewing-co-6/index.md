@@ -1,0 +1,14 @@
+---
+title: ''
+date: '2022-04-23T18:59:46-06:00'
+format: status
+service: foursquare
+latitude: '39.734615'
+longitude: '-105.178506'
+---
+
+Checked in at [Coda Brewing Co](http://foursquare.com/v/5b91d498f193c0002cd9ea6e).
+
+> with erika
+
+39.734615-105.178506

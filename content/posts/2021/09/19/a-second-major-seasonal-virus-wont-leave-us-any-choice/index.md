@@ -1,0 +1,47 @@
+---
+title: A Second Major Seasonal Virus Won’t Leave Us Any Choice
+date: '2021-09-19T13:04:57-06:00'
+format: link
+service: instapaper
+tags:
+- read
+external_url: https://www.theatlantic.com/ideas/archive/2021/09/endemic-covid-manageable-risk-dual-threat-influenza/620044/
+---
+
+[A Second Major Seasonal Virus Won’t Leave Us Any Choice](https://www.theatlantic.com/ideas/archive/2021/09/endemic-covid-manageable-risk-dual-threat-influenza/620044/)  
+
+
+
+This pandemic will eventually be over, and the Delta surge—in which most of those not yet vaccinated against the coronavirus could become infected—may well be America’s last destructive wave. But just because we’re eager to move past the virus doesn’t mean it’s finished with us.
+
+In our large, open, and globally connected society, getting to zero COVID, the [goal that Australia and New Zealand have pursued](https://www.theatlantic.com/ideas/archive/2021/09/pandemic-australia-still-liberal-democracy/619940/), is as politically unrealistic as it is biologically implausible. Americans are mostly done with the onerous shutdowns that such a goal would require. The virus has now spread so widely in the world that even tight, long-lasting limits on Americans’ movement—restrictions far beyond what we would tolerate—could not stamp it out entirely. Instead, SARS-CoV-2 will become an endemic virus, settling alongside the other four strains of coronaviruses that circulate widely among us.
+
+But while the other four coronaviruses typically cause little more than the common cold, SARS-CoV-2 is likely to remain a more serious threat even after this pandemic wanes, even after the virus becomes primarily a seasonal pathogen, even after drugs and vaccination limit the damage it does. The virus will become a persistent menace at least on par with the yearly flu—a threat that, though seemingly routine, strains health-care systems, businesses, and schools every winter. With SARS-CoV-2 mingling alongside influenza—and causing a comparable level of death and disease—the harm to public health and economic productivity will be too great for society to simply shrug off. The dual viral threat will compel better defenses. We won’t have a choice.
+
+[Read: The coronavirus is here forever. Here’s how we live with it.](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/)
+
+The biggest challenge in confronting the coronavirus’s continual threat will be adapting our work and leisure activities to turn an omnipresent virus into a manageable risk—and seeing whether enough Americans can reach a political consensus on the practical and cultural changes that this will require.
+
+The current pandemic has become a source of political division, and decisions about how to handle it have been evaluated through that prism. State-by-state differences in pandemic policy, and in residents’ openness to vaccination, have produced regional variations in the scope of the epidemic. But the political coloring of disease-fighting precautions may fade as COVID-19 becomes a forever problem, and as the need for a sustainable long-term plan to address the continued threat becomes evident.
+
+The impact on productivity alone will demand that schools and businesses strengthen their defenses against respiratory viruses. A 2018 [study in the journal *Vaccine*](https://pubmed.ncbi.nlm.nih.gov/29801998) estimated that the economic cost of flu tops $11 billion a year, including the indirect costs from lost productivity. That figure may be conservative; other models have put the total burden [as high as $87 billion](https://pubmed.ncbi.nlm.nih.gov/17544181/). Past surveys have estimated the mean number of workdays lost from flu to be [3.7 to 5.9 days per diagnosed episode](https://pubmed.ncbi.nlm.nih.gov/18850761/). Meanwhile, the cumulative annual impact from severe colds and other non-influenza viral respiratory infections [stands at about $40 billion](https://pubmed.ncbi.nlm.nih.gov/12588210/).
+
+Reducing these threats starts with more aggressive efforts to get people vaccinated for flu and COVID alike. Work-related vaccination mandates for both diseases will become more common. (By way of disclosure, I should note that I serve on Pfizer’s board of directors.) For people in industries where telecommuting is possible, the calculus around going to work in person could also change. During peak flu and COVID season, businesses could encourage telework to reduce density in their offices. Conferences may be shifted to months when respiratory pathogens are less prevalent. Businesses will make wider use of videoconferencing to avoid crowded conference rooms, even holding Zoom meetings inside the office while people stay at their own desk.
+
+In the past, responsible businesses have encouraged people to stay home if they’re not feeling well. That should be extended to include people with a sick family member and those awaiting a firm diagnosis. Discouraging people from toughing out a cold at work should make the office safer from large outbreaks of respiratory viruses. We need to have workplace policies that insulate people from the financial impact of these prudent health-care practices, as well.
+
+[Read: Expect the unexpected from the Delta variant](https://www.theatlantic.com/health/archive/2021/06/expect-unexpected-delta-variant/619245/)
+
+Buildings will also undergo renovations to [improve airflow and filtration](https://www.theatlantic.com/health/archive/2020/07/why-arent-we-talking-more-about-airborne-transmission/614737/) in order to reduce the spread of aerosols. Modern buildings are sealed tight, sometimes as part of an attempt to make them greener. Now they should go blue—improving airflow and air quality by adding hospital-grade air-handling and -filtration systems.
+
+Medical practice will also change. Past work with other viral diseases suggests that we can successfully make drugs to combat the basic features that SARS-CoV-2 uses to reproduce and spread. If these efforts are any guide, we’ll eventually have an antiviral drug that can be taken by mouth when people are first diagnosed with COVID, to reduce symptoms or prevent progression to severe disease. The same drug might be used to prevent infection if you’ve been in close contact with someone who is sick.
+
+As with Tamiflu, an antiviral drug for influenza, drugs for COVID will reduce but not eliminate its risk. A key to controlling spread, and seeking timely care, will be prompt diagnosis. Home screening with tests that can differentiate flu from COVID will be routine. Regulators, who for years discouraged home diagnosis of infectious diseases with self-administered tests, now support this approach. Patients will self-diagnose at home and consult doctors through virtual visits. Personal hygiene will also change. During the winter months, when the spread of respiratory pathogens peaks, voluntary mask use inside public spaces will become more common—and, in some parts of the country, a cultural norm.
+
+These tactics will only partially interrupt a virus like SARS-CoV-2, which spreads before people have symptoms and can disperse long distances in poorly ventilated spaces. But they could have a greater impact on the spread of a virus like influenza, reducing the impact of flu enough that the cumulative threat from these two pathogens becomes a burden more comparable to that of a bad flu season like the winter of 2018.
+
+We’re not going to annihilate COVID. Instead, our goal must be to weaken its punch so that it becomes a risk we can adapt to. The key measure should be the burden of serious disease. Eventually, many of us are [likely to get infected with SARS-CoV-2](https://www.theatlantic.com/science/archive/2021/08/how-we-live-coronavirus-forever/619783/). For most of us, the hope should be that we manifest nothing more than a mild infection and are protected through vaccines. Once a shot becomes available for children under the age of 12, it will reduce some of the understandable anxiety that parents harbor about bringing the infection into their home and to their [young children](https://www.theatlantic.com/health/archive/2021/04/young-kids-vaccines-covid/618650/). Many concerns about in-person activities in the workplace may ease as well.
+
+As we transition from the pandemic to the endemic phase of this virus, no bright line divides these two states. We’ll straddle the two phases through this coming winter. Our progress will feel uncertain and disorderly because people will arrive at different estimates about how much of a threat COVID poses to them personally, and will feel different levels of resolve about how aggressively our society should try to confront it. Yet more widespread adoption of vaccines will provide Americans with growing confidence to take risks, and lower disease prevalence once the [Delta wave](https://www.theatlantic.com/health/archive/2021/06/expect-unexpected-delta-variant/619245/) has passed will reduce many Americans’ sense of pervasive danger.
+
+During the shift from a pandemic emergency to an endemic hazard, fights over how forcefully we deal with COVID’s acute risk will morph into debates over how we adjust society to reduce the virus’s persistent perils. The twin burden of flu and COVID is going to compel more collective action. We’ve been far too complacent about the seasonal flu, allowing it to sicken and kill too many people each year. With a second serious disease in the picture, we’re going to be forced to take action.

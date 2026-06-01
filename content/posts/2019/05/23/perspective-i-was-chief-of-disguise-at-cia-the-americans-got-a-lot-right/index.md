@@ -1,0 +1,38 @@
+---
+title: Perspective | I was chief of disguise at CIA. ‘The Americans’ got a lot right.
+date: '2019-05-23T22:59:00-06:00'
+format: link
+service: instapaper
+tags:
+- read
+external_url: https://www.washingtonpost.com/news/posteverything/wp/2018/05/17/i-was-chief-of-disguise-at-cia-the-americans-got-a-lot-right/
+---
+
+[Perspective | I was chief of disguise at CIA. ‘The Americans’ got a lot right.](https://www.washingtonpost.com/news/posteverything/wp/2018/05/17/i-was-chief-of-disguise-at-cia-the-americans-got-a-lot-right/)  
+
+
+
+ ![](https://www.washingtonpost.com/resizer/ee_etrHeK0H_cEyD94QoawHCPjU=/1024x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OZMB2M7RU5HZKU7BXGR4YS66A.jpg)![](https://www.washingtonpost.com/resizer/ee_etrHeK0H_cEyD94QoawHCPjU=/1024x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OZMB2M7RU5HZKU7BXGR4YS66A.jpg)  
+
+Matthew Rhys and Keri Russell as spies in disguise in “The Americans.” (Eric Liebowitz/FX)
+
+After 27 years in the CIA working on operational assignments around the world, I am somewhat numbed to the fictional espionage that engulfs us — the books and movies and TV shows that always get it wrong. That’s why I have largely shunned the genre, barely noting the reviews of the latest creations that celebrate the life of an intelligence officer. “Homeland”? No. The Bourne movies? No. “Alias”? God, no! It’s the main reason I work as an adviser and speaker at the Spy Museum in Washington: to present an informed but still entertaining picture of the work of a spy.
+
+But then came “The Americans,” the FX TV series set to finish its sixth and final season to near-unanimous [critical acclaim](https://www.washingtonpost.com/entertainment/tv/want-a-stronger-more-intense-marriage-then-you-should-watch-the-americans/2016/03/15/60cdc782-e713-11e5-bc08-3e03a5b41910_story.html?utm_term=.297a3785f9c1). It proved to be the outlier in my perception — and I wasn’t surprised when The Washington Post reported that [Gina Haspel](https://www.washingtonpost.com/world/national-security/undercover-to-under-scrutiny-gina-haspel-nominee-to-head-cia-to-face-senate-grilling/2018/05/07/c8178dea-4fa5-11e8-b966-bfb0da2dad62_story.html?utm_term=.39f03c0f88b0), the career CIA officer nominated to direct the agency, is a fan of the show. I was late to “The Americans” and had some catching up to do initially. But from the first spectacular episode, I was hooked, because the setup resonated. The show centered on a modern American family of spies with children and a suburban lifestyle. That had once been my life. But wait. These spies were not American at all. They were faux Americans — Russians, in fact — something I also knew a little about. There had once been Soviet sleeper agents posing as Americans. The structure of the FX show, predicated on the family dynamics that result when espionage is the parental career, allowed for a thoughtful exploration of the necessity to manage the daily deception that is part of the job of a spy (or, as we would call it at the CIA, an operations officer).
+
+My [husband](https://www.washingtonpost.com/local/before-he-was-a-spy-argos-tony-mendez-was-an-artist-he-still-is/2013/01/12/9cdaf998-5b66-11e2-9fa9-5fbdc9530eb9_story.html?utm_term=.51971b53d1b3), [Tony](https://www.washingtonpost.com/blogs/rosenwald-md/post/golden-globes-a-big-night-for-the-real-tony-mendez/2013/01/14/16579a70-5e63-11e2-90a0-73c8343c6d61_blog.html?utm_term=.3f82762ddda6), and I had 52 years between us working with the CIA in mostly foreign assignments. We had to convince nosy neighbors and casual acquaintances, as well as office mates, that we were what we purported to be — somewhat boring administrative professionals. If we made it boring enough, it worked. Tony’s children, however, would eventually notice that their dad was gone far more often than their friends’ dads, and that he never talked about his job, that he was meeting strangers at home with great privacy. Then he would take them, one by one, to a very grown-up lunch and give them “the talk.” He always told me that his kids handled the information more carefully than many adults do. But he also never tried to recruit them, as happens in “The Americans,” to take on the life of a spy themselves.
+
+While “The Americans” concerns itself with maintaining the charade of a false identity and masquerading as someone you are not, it pushes further, exploring the nature of love when you live with someone who lies for a living, and the moral dilemmas that can arise from those circumstances.
+
+AdChoices
+ADVERTISING
+
+On one long assignment to Europe, my husband and I kept a guest book on a shelf inside our front door. When I came home from days away, I would sit down and write him a note, give him the departure and return details of my next trip, and then go again. He would do the same. Today that book is one of my treasures, something like a diary, but without any of the personal stuff. It is the unclassified record of multiple deceptions, covers and meetings.
+
+“The Americans” gets the tradecraft and the technology of the 1980s generally right, at least the way it worked when Ronald Reagan was president. The script is littered with dead drops and communication protocols, disguises and cyanide pills, secret writing and signals that were used for impersonal communication with your agent or your team. It is all properly executed; it is done the way we did it, and it is one of many ways that Joe Weisberg, the creator of this series and a former CIA officer himself, shows his hand and his familiarity with CIA tactics and methods. He and I went to the same tradecraft school at the agency, and we learned the same lessons. When I watched Matthew Rhys, the husband on “The Americans,” speed in reverse through an FBI roadblock in the final episode of Season 1, well, I have practiced that maneuver countless times, wrecking more than one car while learning the procedure. They did it right.
+
+The makeup artists for “The Americans” do, too. It is universally recognized that women wear disguises more easily than men do. Women have been disguising themselves from their early teens for generations; men, not so much. Convincing a male CIA officer that he should wear a wig and a fake mustache was one of my first challenges in the disguise business. I went on to become chief of disguise at CIA, and had other, more compelling disguise materials to offer, but the men were never a natural fit. Rhys makes the case, however, for disappearing under nothing more than a knit cap and a pair of glasses, a scruffy mustache and a messy wig. He becomes the consummate little gray man, invisible, the one nobody can remember was even on the elevator.
+
+Where does “The Americans” go astray? The sex and violence are over the top and gratuitous but probably deemed necessary by the writers. I disagree. I was taught to shoot at static targets and out of moving vehicles with a variety of guns, but in nearly three decades on the job, I never carried one. Never had to kill anyone, although I almost got shot myself. A gun would not have helped me then.
+
+Only a few episodes to go. We will miss this show, where the action is both shaken and stirred, where the chemistry between Keri Russell, who plays the wife, and Rhys became so real that the actors are a couple now, with a child. Interesting that a real relationship was born out of a TV “marriage” that began as an absolute lie.

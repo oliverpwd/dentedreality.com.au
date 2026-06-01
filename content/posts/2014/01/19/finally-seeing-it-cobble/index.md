@@ -1,0 +1,8 @@
+---
+title: ''
+date: '2014-01-19T16:59:28+00:00'
+format: aside
+categories:
+- personal
+---
+

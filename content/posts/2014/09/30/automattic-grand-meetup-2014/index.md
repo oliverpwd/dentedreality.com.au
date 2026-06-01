@@ -1,0 +1,34 @@
+---
+title: Automattic Grand Meetup, 2014
+date: '2014-09-30T12:20:13+00:00'
+tags:
+- a8cgm
+- automattic
+- meetup
+- park city
+- utah
+- wwwp5k
+categories:
+- personal
+---
+
+![Photo by Luca Sartoni](http://dentedreality.com.au/wp-content/uploads/2014/09/blog-46.jpg)
+
+Once a year, all of [Automattic](http://dentedreality.com.au/tags/automattic/) gets together in one place for a full week of face-to-face work, learning, food and fun. We fly in from all around the world, shuttle to a hotel/resort/space of some sort, and then get together to work through a bunch of things. This year we descended upon Canyons Resort in Park City, Utah (another US state crossed off my list!). The week was roughly structured into a front-loaded, work-type-things section, and a tail end more loaded with activities. For my part, I:
+
+* Learned more about Node.js (and got a copy of coworker [@TooTallNate](https://twitter.com/TooTallNate)‘s “[Node.js in Action](http://smile.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=smi_www_rcolv2_go_smi?_encoding=UTF8&*Version*=1&*entries*=0)“), specifically in relation to some new applications we’re building out at WordPress.com
+* Worked with [React.js](http://facebook.github.io/react/) some more (which is awesome and pretty exciting)
+* Went on a 5km run (walked the first bit, but then my knee was feeling OK so I ran most of it)
+* Took a gondola ride up the mountain, then went on a ~1.5 hour hike through beautiful aspens and conifers, past a trout-stocked lake and through some downhill MTB trails
+* Went on a guided fly fishing trip with guides from [Trout Tales](http://www.pctrouttales.com/), where I (finally!) caught my first fish; and then my second and third as well
+* Visited [High West Distillery](http://www.highwest.com/) for a tour, tasting, and picked up a bottle of their [Son of Bourye](http://www.highwest.com/spirits/son-of-bourye/) (a delicious blend of Bourbon and Rye)
+* Met a bunch of new Automatticians and spent time hanging out and getting to know people new and old
+* Road tripped from Denver, CO to Park City, UT and back again with [@alternatekev](http://alternatekev.me/) and [@michaelarestad](http://www.michaelarestad.com/)
+
+Michelle did a great official write-up [on the WordPress.com Blog](http://en.blog.wordpress.com/2014/09/30/grand-meetup-reflections/).
+
+Here is a collection of shots from the week (including the trip there and back):
+
+[![](http://i1.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/10706987_1555949094629155_353917316_n.jpg?resize=401%2C401 "Getting there. #a8cmeetup")](http://dentedreality.com.au/2014/09/15/getting-there-a8cmeetup/getting-there-a8cmeetup-2/)Welcome to Utah.[![](http://i0.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/10684045_702580793152890_21977454_n.jpg?resize=198%2C198 "Utah clouding. #a8cmeetup")](http://dentedreality.com.au/2014/09/15/utah-clouding-a8cmeetup/utah-clouding-a8cmeetup-2/)[![](http://i0.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/10691890_1479884972264216_464388827_n.jpg?resize=198%2C199 "#hyperlapse #a8cmeetup CO:UT")](http://dentedreality.com.au/2014/09/15/hyperlapse-a8cmeetup-cout/hyperlapse-a8cmeetup-cout-2/)[![](http://i1.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/10683782_324928311001543_132266627_n.jpg?resize=178%2C178 "Road trip to #a8cmeetup with @alternatekev and @michaelarestad.")](http://dentedreality.com.au/2014/09/15/road-trip-to-a8cmeetup-with-alternatekev-and-michaelarestad/road-trip-to-a8cmeetup-with-alternatekev-and-michaelarestad-2/)Road trip selfie.[![](http://i1.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9265.jpg?resize=178%2C134 "IMG_9265")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9265/)[![](http://i2.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9269.jpg?resize=421%2C316 "IMG_9269")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9269/)[![](http://i1.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9290.jpg?resize=198%2C149 "IMG_9290")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9290/)My room’s view.[![](http://i1.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9296.jpg?resize=198%2C149 "IMG_9296")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9296/)[![](http://i1.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9306.jpg?resize=199%2C149 "IMG_9306")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9306/)[![](http://i2.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9316.jpg?resize=603%2C184 "IMG_9316")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9316/)Company photo.[![](http://i2.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9333.jpg?resize=299%2C225 "IMG_9333")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9333/)[![](http://i0.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9344.jpg?resize=300%2C225 "IMG_9344")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9344/)Gondola ride.[![](http://i0.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9356.jpg?resize=216%2C288 "IMG_9356")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9356/)High West Distillery.[![](http://i0.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9367.jpg?resize=383%2C288 "IMG_9367")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9367/)Closing toast.[![](http://i0.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9371.jpg?resize=603%2C179 "IMG_9371")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9371/)Party suite… all work and no play on the last day.[![](http://i0.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/3277_lnfFMVbM_b97U8NezENEyg4l7CwogsrRY_3bcSs8hvE.jpg?resize=603%2C135 "Checked in at thompson springs rest area")](http://dentedreality.com.au/2014/09/23/checked-in-at-thompson-springs-rest-area/checked-in-at-thompson-springs-rest-area-2/)Crazy panorama from a rest stop in Utah.[![](http://i2.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9384.jpg?resize=299%2C225 "IMG_9384")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9384/)Completely accidental selfie.[![](http://i2.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/IMG_9388.jpg?resize=300%2C225 "IMG_9388")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/img_9388/)Beautiful Colorado mountains.[![](http://i2.wp.com/dentedreality.com.au/wp-content/uploads/2014/09/2014-company-animated-e1412101109931.png?resize=603%2C254 "2014-company-animated")](http://dentedreality.com.au/2014/09/30/automattic-grand-meetup-2014/2014-company-animated/)Company Photo, 2014
+
+*\* Title image taken by [Luca Sartoni](http://lucasartoni.com/)*

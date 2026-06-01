@@ -1,0 +1,63 @@
+---
+title: Team Social in Lisbon
+date: '2011-09-26T13:05:33+00:00'
+format: image
+service: flickr
+tags:
+- automattic
+- Lisbon
+- meetup
+- portugal
+- teamsocial
+- view
+- window
+image: http://i1.wp.com/dentedreality.com.au/wp-content/uploads/2011/09/6958224725_518245604d_o.jpg?resize=607%2C813
+---
+
+[![Team Social in Lisbon](http://i1.wp.com/dentedreality.com.au/wp-content/uploads/2011/09/6958224725_518245604d_o.jpg?resize=607%2C813)](http://dentedreality.com.au/2011/09/26/team-social-in-lisbon-12/) 
+# [Team Social in Lisbon](http://dentedreality.com.au/2011/09/26/team-social-in-lisbon-12/)
+
+
+
+
+
+* #[automattic](http://dentedreality.com.au/tags/automattic/)
+* #[Lisbon](http://dentedreality.com.au/tags/lisbon/)
+* #[meetup](http://dentedreality.com.au/tags/meetup/)
+* #[portugal](http://dentedreality.com.au/tags/portugal/)
+* #[teamsocial](http://dentedreality.com.au/tags/teamsocial/)
+* #[view](http://dentedreality.com.au/tags/view/)
+* #[window](http://dentedreality.com.au/tags/window/)
+
+Posted on [Flickr](http://www.flickr.com/photos/borkazoid/6958224725/) [1:05 pm, September 26, 2011](http://dentedreality.com.au/2011/09/26/team-social-in-lisbon-12/ "1:05 pm") 
+jQuery(document).ready(function(){
+var gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00 = {
+positions : {
+294 : new google.maps.LatLng( '38.714333', '-9.133167' )
+},
+bounds : new google.maps.LatLngBounds(), // empty for now, we'll dynamically extend it later
+map : new google.maps.Map(
+document.getElementById( 'gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00' ),
+{
+mapTypeId: google.maps.MapTypeId.ROADMAP,
+center: new google.maps.LatLng( 0, 0 ),
+zoom: 16 // Seems to be a good zoom for a single point
+}
+),
+markers : {},
+}; // end of gmap
+// Extend the bounds of interest based on our positions
+for ( var m in gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.positions ) {
+gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.bounds.extend( gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.positions[m] );
+}
+// Render markers
+for ( var m in gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.positions ) {
+gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.markers[m] = new google.maps.Marker( {
+clickable: true,
+map : gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.map,
+position : gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.positions[m]
+} );
+}
+// Redraw map to fit our new marker-based bounds
+gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.map.setCenter( gmap\_m6d62bdf5de2a8ce94c6a00c2df0f7c00.positions[294] );
+});

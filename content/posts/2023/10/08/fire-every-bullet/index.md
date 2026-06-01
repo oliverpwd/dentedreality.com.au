@@ -1,0 +1,41 @@
+---
+title: Fire Every Bullet
+date: '2023-10-08T19:23:27-06:00'
+format: link
+service: instapaper
+tags:
+- read
+external_url: https://caseyaccidental.com/fire-every-bullet/
+---
+
+[Fire Every Bullet](https://caseyaccidental.com/fire-every-bullet/)  
+
+
+
+In crisis situations, a new style or management and prioritization has to occur. Andy Grove famously called this “wartime”, and he and others like Ben Horowitz have described what it’s like to be a “wartime” CEO. I haven’t ever seen anything written about being a wartime CPO though. Being a wartime CPO means a lot has to change in how you approach building product. Most product leaders think about their team as the product, and they continue to iterate on their team through hiring, training, coaching, delegation, etc. In wartime, you’re not hiring, you don’t have time to train or coach, and you make more top down decisions. But there’s one big thing that needs to change for wartime CPOs I want to cover today, and that is prioritization and evaluation.
+
+I hope you never have to be a wartime product leader. But as you might have surmised, Eventbrite has been in a wartime situation for over a year now. Let me give you some background. In February 2020, Eventbrite started to become aware of a big problem. While the company was off to a fantastic start to the year, we could see the tidal wave of a global pandemic coming. Neither the world, nor us, was ready for what our metrics were showing could happen: the global shutdown of the live events industry. We were about to go to war, but not [against a competitor](https://caseyaccidental.com/competitors), instead against nature.
+
+There were, of course, differing opinions about the severity of the situation. The media was making fun of VCs for banning handshakes and telling us to be more worried about the seasonal flu, but the media failed to take into account the true potential downside. When the downside is unknown and potentially disastrous, as Nassim Taleb would say, the only rational reaction is over-reaction.
+
+We planned for our mission, to bring the world together through live events, to be tested like never before. We acted swiftly to ensure the longevity of our business and mission, and the wellbeing of our employees, creators and investors. We launched resources and tools, we increased communication to keep employees informed, engaged and connected, and we realigned cost structure and secured access to funding. We also re-wrote the strategy of the business to align to this new reality.
+
+More specifically, on the product side, we shifted all of our focus to help our creators prepare for the reality of a global pandemic and what that meant for their businesses. As we got to work, I recalled a conversation I had with Luc Levesque years ago when we brought him on as an advisor to Pinterest. Luc was the VP of SEO at Tripadvisor at the time (now VP Growth at Shopify), which was the only American company I could find that had succeeded at international SEO. Pinterest’s biggest impediment to growth was international growth, and SEO had been our primary lever to get U.S. growth into good shape after our initial strategy of leveraging the Facebook Open Graph stopped working. I was asking Luc whether we should prioritize different tactics to make international SEO work like international link building, localizing our URL structure, or making sure only content in local languages showed up on a page. His response was basically, “Dude, you do ALL of it.” We could figure out which one mattered the most after we’re successful. This is the approach we took at Eventbrite when the pandemic went into effect.
+
+We built every possible thing we could to help creators and the company. We helped creators pivot online through virtual events; we published information on how to apply for loans; we built a bulk refunds tool, introduced the ability for creators to pay-in or wire money to Eventbrite to refund consumers and a credits system, and an easy postponement tool. We fired every bullet we had at the pandemic problem. We did not prioritize. It didn’t matter how much effort each activity was. We were going to do it all, and do it fast. We released things that would not meet our normal quality bar, because the only thing better than releasing these features for creators today would have been releasing them yesterday. We later learned other companies were doing the same.
+
+> *One thing I would say, maybe feeling somewhat self-conscious right now, we made a company wide decision to lower our minimum acceptable quality bar due to the pandemic. If you observe Shopify right now, we are launching a lot. Almost just because of this one change. So we are pulling a lot of our roadmap forward in time. Everything that can help businesses right now, just because, again, we are in a crazy world right now.*Tobi Lutke, CEO of Shopify, on [Invest Like The Best](https://joincolossus.com/episodes/64592621/lutke-building-a-modern-business?tab=mentionedcontent) (May 2020)
+
+You never want to be on the other side of a catastrophic event having failed saying “we could have done more,” and that has been top-of-mind for us throughout the pandemic. What is interesting when you take the approach of doing everything is some of the tactics work really well, and some do not. There is a tendency to evaluate those tactics in isolation for their success and failure. This is a mistake. You have to evaluate success or failure via the aggregate of all the bullets you fired. Did we save the company? We did. Did we save a lot of our creators’ businesses? We did. You can’t do an experiment or results review on those tactics individually. You have to look at the portfolio.
+
+When should you fire every bullet? Do you fire all the bullets only in near death situations? How about live events recovery? Is Eventbrite firing every bullet to maximize the success of that? Prospect theory states that humans dislike downside impact more than they like upside impact of the same level. Many people have called this irrational. In fact, it is not, because extreme downside effects are things like death and ruin. Extreme upside effects don’t have the same degree of effect. So, firing every bullet makes a lot more sense for extreme downside scenarios than extreme upside scenarios. Think of the two by two.
+
+[![](https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-9.36.11-AM-1024x504.png)](https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-9.36.11-AM.png)
+
+[![](https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-9.33.36-AM-1024x497.png)](https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-9.33.36-AM.png)
+
+The difference between we could have grown a little faster and death vs. safety is not at all the same. That doesn’t mean firing every bullet in upside situations is wrong; it’s just not as clear of an answer as in the extreme downside scenario. Quibi did everything to grow for its launch and burned through $100 million. It might have been better to do a smaller launch and iterate on content to find stronger product/market fit. Uber burned through billions for many years to try to both accelerate the size of their market and their market share within it, and it’s almost a $100 billion company.
+
+The important thing to remember here is in extreme circumstances a lot of the best practices are different. Decisiveness, waste, and measurement will trade off in very different ways. It’s important to register when in these extreme situations that a different rulebook may be required to do the right thing for your business or product when in normal operations. Wartime isn’t over at Eventbrite, but I like to think of the situation right now as we’re finally having peace talks. 
+
+*Currently listening to* [*Primitive Arts by Ron Trent*](https://open.spotify.com/album/15sHxOZhSMHaTwhJhmNY2K?si=fZdy_vobTRGvtjsq9XCp6w)[*.*](https://q3ud9b.p3cdn1.secureserver.net/wp-content/uploads/2021/06/Screen-Shot-2021-06-30-at-9.33.36-AM.png)

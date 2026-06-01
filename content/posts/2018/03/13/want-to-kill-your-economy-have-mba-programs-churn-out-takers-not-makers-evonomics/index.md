@@ -1,0 +1,70 @@
+---
+title: Want to Kill Your Economy? Have MBA Programs Churn out Takers Not Makers. –
+  Evonomics
+date: '2018-03-13T21:10:58+00:00'
+format: link
+service: instapaper
+tags:
+- read
+external_url: http://evonomics.com/want-to-kill-your-economy-have-mba-programs/
+---
+
+[Want to Kill Your Economy? Have MBA Programs Churn out Takers Not Makers. – Evonomics](http://evonomics.com/want-to-kill-your-economy-have-mba-programs/)  
+
+
+
+*By Rana Foroohar*
+
+After the financial crisis of 2008, many people predicted that there would be a crisis of capitalism. The best and the brightest would forgo careers filled with financial ledgers and become teachers or engineers, or start small businesses. Needless to say, that didn’t happen. In fact, getting an MBA has never been a more popular career path. The number of MBAs graduating from America’s business schools has skyrocketed since the 1980s. But over that time, the health of American business has decreased by many metrics: corporate R&D spending, new business creation, productivity, and the level of public trust in business in general.
+
+There are many reasons for this, but one key factor is that the basic training that future business leaders in this country receive is dictated not by the needs of Main Street but by those of Wall Street. With very few exceptions, MBA education today is basically an education in finance, not business—a major distinction. So it’s no wonder that business leaders make many of the finance-friendly decisions. MBA programs don’t churn out innovators well prepared to cope with a fast-changing world, or leaders who can stand up to the Street and put the long-term health of their company (not to mention their customers) first; they churn out followers who learn how to run firms by the numbers. Despite the financial crisis of 2008, most top MBA programs in the United States still teach standard “markets know best” efficiency theory and preach that share price is the best representation of a firm’s underlying value, glossing over the fact that the markets tend to brutalize firms for long-term investment and reward them for short-term paybacks to investors. (Consider that the year Apple debuted the iPod, its stock price fell roughly 25 percent, yet it rises every time the company hands cash back to shareholders.)
+
+This dysfunction is reflected at both a philosophical and a practical level. Business schools by and large teach an extremely limited notion of “value,” and of who corporate stakeholders are. Many courses offer a pretense of data-driven knowledge without a rigorous understanding and analysis of on-the-ground facts. Students are given little practical experience but lots of high-altitude postulating. They learn complex mathematical models and ratios, but these are in many cases skills that are becoming somewhat devalued. As Nitin Nohria, dean of the Harvard Business School, admits, “anyone can teach you how to read a P&L [profit-and-loss statement] or value a derivative; those kinds of things have become commoditized.” The bigger challenge is to teach America’s future business leaders how to be curious, humane, and moral; how to think outside the box about problems like funding the research for a new blockbuster drug. And how to be strong enough to stand up to Wall Street when it demands the opposite.
+
+##### Get Evonomics in your inbox
+
+Sadly, most business schools in America aren’t doing that. What’s more, unlike those in many other countries, they aren’t so much teaching the specifics of the industries students want to enter, or even broader ideas about growth and innovation, as they are training future executives to manage P&Ls. It is very telling that Finance 101 is always a mandatory MBA course, while most others are not. But finance isn’t taught in a way that is rigorous, or truly representative of the real world. Financial risk modeling, one of the basic concepts taught in business schools, is an inexact science at best; many people feel it’s more like rune reading. After all, it involves throwing thousands of variables about all the bad things that could happen into a black box, shaking them up with the millions of positions taken daily by banks, and extrapolating it all into a simple, easy-to-understand number about how much is likely to be lost if things go belly-up. What could possibly go wrong, especially when you’re relying on past assumptions (“the sovereign debts of the United States and Europe will never be downgraded!”) and don’t account for the fact that market-moving events often create their own momentum? Yet the notion that financial models can reveal truth is still taken as fact in most business schools—that was, of course, one of the key factors that fueled the great financial crisis of 2008. “The premise of financial theory [taught in MBA programs] is bogus,” says Robert Johnson, an economist and former quantitative trader for George Soros’s Quantum fund who now heads the Institute for New Economic Thinking, an influential group that, among other things, is trying to broaden the nature of economics and business education. “That’s why we end up living with very thin margins of safety—because of the pretense of knowledge and precision about the future which does not exist.”
+
+Meanwhile, the social, moral, and even larger macroeconomic consequences of corporate actions are largely ignored in the case studies students pore over. Even after the financial crisis, a survey of the world’s one hundred top business schools (most of them in the United States) found that only half of all MBA programs make ethics a required course, and only 6 percent deal with issues of sustainability in their core curriculum, despite the fact that a large body of research shows that firms that focus on these issues actually have higher longer-term performance. Instead, students are taught that what matters most is maximizing profits and bolstering a company’s share price. It’s something they carry straight with them to corporate America.
+
+People do keep heading to business school, though—in large part because business, and in particular the business of finance, is where the money is. A full quarter of American graduate students earn a master’s degree in business, more than the combined share of master’s degrees sought in the legal, health, and computer science fields (business is also far and away the most popular undergraduate degree). The greatest percentage of those who receive an MBA degree end up not in industry, but in some area of finance. Although figures have dropped somewhat since the financial crisis of 2008, the financial conglomerate—banking, insurance, hedge funds, investment management, and consulting firms—is still the largest single block of MBA employers, along with the accounting and finance departments of Fortune 500 companies. Given that the quickest path to being a CEO these days is through a finance track, many of the top decision makers in the largest and most powerful firms not only have an MBA, but come from one of a handful of elite programs, like Harvard, Chicago, Columbia, and Wharton. “[Within] the first three months of your MBA program, you’re surrounded by people in suits,” says one 2015 graduate of Columbia Business School. “It’s not peer pressure, but there’s definitely a social element to feeling like you want to revert back to mainstream [areas of employment] with job security.” She, like most of her peers, is planning to work for a consulting firm, an investment bank, or a private equity shop upon graduation. Given the six-figure cost of an MBA education, that’s not so much a choice for many students as it is a financial necessity.
+
+Yet ironically, many business leaders, even those who have MBAs themselves, have begun to question the value of these programs. “I went to business school before I knew any better, kind of like sailors get tattoos,” jokes former GM vice chairman Bob Lutz, whose book *Car Guys vs. Bean Counters* decries the rise of the MBAs. The problem with business education, according to him, is that students are taught not what happens in real business—which tends to be unpredictable and messy—but a series of techniques and questions that should take them to the right answers, no matter what the problem is. “The techniques, if you read the Harvard Business School cases, they are all about finding efficiencies, cost optimization, reducing your [product] assortment, buying out competitors, improving logistics, getting rid of too many warehouses, or putting in more warehouses. It’s all words, and then there’s a sea of numbers, and you read it all and analyze your way through this batch of charts and numbers, and then you figure out the silver bullet: the problem is X. And you’re then considered brilliant.” The real problem, says Lutz, is that the case studies are static—they don’t reflect the messy, emotional, dynamic world of business as it is. “In these studies, annual sales are never in question. I’ve never seen a Harvard Business School case study that says, ‘Hey, our sales are going down and we don’t know why. Now what?’
+
+Lutz believes this kind of approach was one of the things that tanked the American automobile industry and manufacturing in general from the 1970s onward. He’s not alone. Many of America’s iconic business leaders believe an MBA degree makes you less equipped to run a business well for the long term, particularly in high-growth, innovation-driven industries like pharmaceuticals or technology, which depend on leaders who are willing to invest in the future.
+
+MBAs are everywhere, yet the industries where you find fewer of them tend to be the most successful. America’s shining technology and innovation hub—Silicon Valley—is relatively light on MBAs and heavy on engineers. MBAs had almost nothing to do with the two major developments in the American business landscape over the last forty years: the Japanese-style quality revolution in manufacturing and the digital revolution. Indeed, the top-down, hierarchical, financially driven management style typically taught in business schools is useless in flat, nimble start-up companies that create the majority of jobs in the country. Moreover, when that style *is* imposed on Silicon Valley firms, they typically falter (think of John Sculley, the Wharton MBA who made the ill-fated decision to oust Steve Jobs after his first tenure at Apple, or the reign of Carly Fiorina at HP, during which that company’s stock lost half its value). One of the scariest trends in business these days is the increased movement of MBAs and finance types into the technology industry. They now are bringing their focus on financial engineering and balance sheet manipulation to firms such as Google, Apple, Facebook, Yahoo, and Snapchat—a shift that, if history is any indicator, doesn’t bode well for the future of such firms.
+
+Why has business education failed business? Why has it fallen so much in love with finance and the ideas it espouses? It’s a problem with deep roots, which have been spreading for decades. It encompasses issues like the rise of neoliberal economic views as a challenge to the postwar threat of socialism. It’s about an academic inferiority complex that propelled business educators to try to emulate hard sciences like physics rather than take lessons from biology or the humanities. It dovetails with the growth of computing power that enabled complex financial modeling. The bottom line, though, is that far from empowering business, MBA education has fostered the sort of short-term, balance-sheet-oriented thinking that is threatening the economic competitiveness of the country as a whole. If you wonder why most businesses still think of shareholders as their main priority or treat skilled labor as a cost rather than an asset—or why 80 percent of CEOs surveyed in one study said they’d pass up making an investment that would fuel a decade’s worth of innovation if it meant they’d miss a quarter of earnings results— it’s because that’s exactly what they are being educated to do.
+
+![](http://evonomics.com/wp-content/uploads/2016/06/cover.makersandtakers-197x300.jpg)![](http://evonomics.com/wp-content/uploads/2016/06/cover.makersandtakers-197x300.jpg)Adapted from [Makers & Takers: The Rise of Finance and the Fall of American Business](https://www.amazon.com/Makers-Takers-Finance-American-Business-ebook/dp/B014BR46P2) Copyright © 2016 by Rana Foroohar. Published by Crown Business, an imprint of Penguin Random House LLC.
+
+### Donating = Changing Economics. And Changing the World.
+
+Evonomics is free, it’s a labor of love, and it’s an expense. We spend hundreds of hours and lots of dollars each month creating, curating, and promoting content that drives the next evolution of economics. If you’re like us — if you think there’s a key leverage point here for making the world a better place — please consider donating. We’ll use your donation to deliver even more game-changing content, and to spread the word about that content to influential thinkers far and wide.
+
+**MONTHLY DONATION**  
+
+  
+
+$3 / month  
+
+$7 / month  
+
+$10 / month  
+
+$25 / month
+
+**ONE-TIME DONATION**  
+
+  
+
+You can also become a one-time patron with a single donation in any amount.  
+
+
+#### If you liked this article, you’ll also like these other Evonomics articles…
+
+[The Milton Friedman Doctrine Is Wrong. Here’s How to Rethink the Corporation.](http://evonomics.com/milton-friedman-doctrine-wrong-heres-rethink-corporation/)[How Neoclassical Economics Corrupted Business Schools, Corporations, and the Economy](http://evonomics.com/neoclassical-economics-business-school-gintis/)[Why Central Banks Should Offer Bank Accounts to Everyone](http://evonomics.com/central-banks-for-everyone-nicholas-gruen/)[The Ideology of Exponential Growth Devours and Corrupts](http://evonomics.com/creator-ceo-basecamp-com-exponential-growth-devours-corrupts/)
+### BE INVOLVED
+
+We welcome you to take part in the next evolution of economics. Sign up now to be kept in the loop!

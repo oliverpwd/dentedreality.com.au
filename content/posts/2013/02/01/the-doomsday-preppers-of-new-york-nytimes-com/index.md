@@ -1,0 +1,87 @@
+---
+title: The Doomsday Preppers of New York – NYTimes.com
+date: '2013-02-01T14:44:24-07:00'
+format: link
+service: instapaper
+tags:
+- read
+external_url: http://www.nytimes.com/2013/01/27/nyregion/the-doomsday-preppers-of-new-york.html?pagewanted=all&_r=0
+---
+
+[The Doomsday Preppers of New York – NYTimes.com](http://www.nytimes.com/2013/01/27/nyregion/the-doomsday-preppers-of-new-york.html?pagewanted=all&_r=0)  
+
+
+
+Onto a folding table came a breathtaking array of disaster swag: compasses and iodine pills, hand-cranked radios and solar-powered flashlights, magnesium fire-starters and a fully charged Kindle with digital road maps of the tristate region. Many of the items on display went far beyond the “10 Basic Pillars of Bug-Out Gear” that Jason Charles, the network’s leader, had passed out in advance through the Internet. A good number were tweaked to fit their owners’ needs and interests. A locksmith in the group had a lock-picking set. A vegetarian had a stash of homemade dehydrated lentils. One man had a condom designed to serve as an emergency canteen; another had a rat trap — to catch and eat the rats.
+
+After showing off his own bag (parachute cord, a bivy sack, a two-week supply of [Meals Ready to Eat](http://www.amazon.com/Meals-Ready-Genuine-Military-Issue/dp/B000EFDHCO)), Mr. Charles, a New York City firefighter, told the group that he had just bought a dog. “So now I have to implement his plan, too,” he said a little worriedly. With a pause and a sheepish look, he added, “That’s weird, right?”
+
+New York hardly seems like a natural location for what has become known as the prepper movement, but in fact the city’s prepping community is not only large and remarkably diverse, its leaders say, it’s also growing rapidly.
+
+To the unprepared, the very word “prepper” is likely to summon images of armed zealots hunkered down in bunkers awaiting the End of Days, but the reality, at least here in New York, is less dramatic. Local Preppers are doctors, doormen, charter school executives, subway conductors, advertising writers and happily married couples from the Bronx. They are no doubt people that you know — your acquaintances and neighbors. People, I’ll admit, like myself.
+
+It isn’t easy being a Prepper these days. The discipline has taken blows from TV programs like [“Doomsday Preppers,”](http://video.nationalgeographic.com/video/national-geographic-channel/shows/doomsday-preppers) which — despite its record ratings and recent episodes, like “Escape From New York” — is more or less a weekly invitation to laugh at lunatics tunneling into mountainsides to escape a Russian nuclear attack. Last month, a chill went through the movement when it turned out that the mother of [Adam Lanza](http://www.nytimes.com/2012/12/15/nyregion/adam-lanza-an-enigma-who-is-now-identified-as-a-mass-killer.html), the shooter in the Newtown, Conn., killings, was a Prepper. Even though prepping is increasingly visible in the culture — through meet-up groups, books, films and [weekend retreats](http://www.meetup.com/NJPreparedness/events/73583042/) at which canning skills are learned — it continues to be thought of as a marginal and unseemly business, something on par with believing that the Bilderberg Group controls world events or that the government is hiding aliens at [Area 51](http://news.nationalgeographic.com/news/2011/05/pictures/110520-spy-plane-area-51-cover-up-crash-cia-conspiracy/).
+
+**MY OWN ATTEMPTS** at prepping started at a point between the fall of Lehman Brothers and the corresponding rise of [quantitative easing](http://www.investopedia.com/terms/q/quantitative-easing.asp), when it occurred to me — as, of course, it did to many — that the financial system was appallingly unstable and that the realm of the possible now included a disruptive reduction in the value of our money. Egged on by admittedly heated readings of doomsday authors like [John Mauldin](http://www.mauldineconomics.com/) and [Charles Hugh Smith](http://www.oftwominds.com/blog.html), I began to form a picture of the world as a system of unsustainable systems, a rickety Rube Goldberg machine in which the loss of any one piece — cheap oil, say — could derail the whole contraption, from truck transportation to the distribution of food.
+
+In the wake of these insights, I called a family friend in Ohio, himself half-a-Prepper, and he advised me to purchase a quantity of [Silver Eagle coins](http://www.goldeneaglecoin.com/buy_silver/silver_american_eagles) as an inflation hedge, which I did. Not long after came the hundred-dollar, home-delivered [month’s supply of freeze-dried food](http://www.costco.com/330-Total-Servings-of-Emergency-Food-Storage-ARK-1-Month-Supply-By-Chefs-Banquet.product.11649759.html) — in the standard and the vegetarian options — from [Costco.com](http://Costco.com). I bought my wife, which is to say, myself, John Seymour’s homesteading classic, [“The Self-Sufficient Life and How to Live It.”](http://www.amazon.com/Self-Sufficient-Life-How-Live/dp/0756654505) I began the conversation about acquiring a gun.
+
+While close friends visiting my home might be allowed a look at my haphazard bug-out bag, I mostly kept quiet about prepping, aware of the embarrassment I was courting. It was, therefore, with a measure of relief that I found myself this month among brethren Preppers who intuitively understood my desire to have at hand a packed supply of power bars or a [LifeStraw](http://www.vestergaard-frandsen.com/lifestraw) personal drinking tool. You do meet Preppers in New York who are preparing for extreme events like solar flares or an eruption of the [Yellowstone Caldera](http://www.wired.com/wiredscience/2012/09/the-future-at-yellowstone-caldera/), but most say their concerns are more immediate, more local: chief among them being terrorist attacks, natural disasters and economic collapse.
+
+“The Earth isn’t going to crash into Planet X and the Mayan thing never happened” is how Mr. Charles put it when I introduced myself at the show-and-tell. “But I’ll tell you this,” he added. “People here definitely used their preps during Sandy.”
+
+Not surprisingly, the storm attracted numerous recruits to his group and joined a list of totemic prepping moments that already included the much-hyped Y2K fiasco, 9/11 and [Hurricane Katrina](http://topics.nytimes.com/top/reference/timestopics/subjects/h/hurricane_katrina/index.html?inline=nyt-classifier). I learned that New York Preppers prep for reasons as varied as their anxieties and experience. “It was a pragmatic response to certain things I know,” said Robert Segal, a wine salesman between jobs, who once worked as an electrical technician on a nuclear submarine. “As an engineer, I’m sort of a student of how things fall apart.”
+
+I found this practicality attractive. I liked how Preppers were given to debate (bear spray or baseball bats? Water purification or water filtration?) and how they were versed in esoteric areas of knowledge (fish antibiotics, New York City knife laws). I was especially enamored of the jargon: “GOOD” (Get Out of Dodge) or “TEOTWAWKI” (The End of the World as We Know It). And yet, I must confess, there were moments that gave me pause.
+
+During his presentation, Mr. Charles suggested that a well-prepared bug-out bag was only part of the equation; just as important was knowing where to go. “Bugging out will not be easy,” he explained. “It might take three or four hours to get out of the city. If the bridges are blocked, you might have to use a raft to get across the river. Everyone’s situation will be different.”
+
+Then, as the show-and-tell ended, he gave the prize for Best Bag to a precocious young Prepper whose kit included a fishing line, a seat belt cutter, ready-start fuel cubes, several types of multi-tools and a smoke hood. The winner had come with his mother and had dutifully prepared a bag for her. I wanted to talk with him, but when I approached, he asked if I was “press” and suspiciously refused to give his name.
+
+I later found out that he was 12.
+
+**EARLY IN MY TRAVELS**, I was told the man to see for a deeper understanding of prepping in New York was Aton Edwards, founder of the [International Preparedness Network](http://readyforanything.org/) and author of the emergency survival guide [“Preparedness Now!”](http://www.amazon.com/PREPAREDNESS-NOW-Emergency-Survival-Self-Reliance/dp/1934170097) Mr. Edwards, 51, is often called the city’s foremost expert in personal disaster preparation — he has appeared on the “Today” show, has taught his “Ready Up!” seminars to hundreds of participants with partners like the Red Cross and has set up, as part of the [National Urban Self-Reliance and Preparedness Program](http://readyforanything.org/?p=287), “incident command centers” across New York, like the one he recently created for the hip-hop pioneer [Afrika Bambaataa](http://www.zulunation.com/afrika.html) in the Bronx.
+
+Mr. Edwards has sufficient recognition in the prepping world that just last month someone calling himself Hudson Valley Prepper left a message on [Preppergroups.com](http://Preppergroups.com) warning that one day in the not-too-distant future he might head north. “This guy Aton Edwards,” the message read, “a dangerous man in his own right, is currently holding prepper training in New York City and has stated that the number one goal is to get out of the city. Do you think you could stop Aton and his followers once he has been on the road for a week and is starving?”
+
+When I met Mr. Edwards in Brooklyn this month, I found a hulking man dressed entirely in black, sitting in front of a laptop and giving an Internet tutorial on bug-out-bag preparedness to members of Evolver. net, the “global community of cultural creatives” established by [Daniel Pinchbeck](http://www.realitysandwich.com/blog/daniel_pinchbeck), a proponent of last year’s Mayan apocalypse phenomenon. In between displaying items like his Chinese-made survival shovel with the saw blade and nail-puller, Mr. Edwards said: “Daniel just wants his people to be ready. Even if you’re cosmically conscious, you still need to prepare for what it’ll be like with no food or water.”
+
+As I got to know him better, Mr. Edwards told me the story of his own interest in disaster preparation, which began, he said, in 1972, when he went to see [“Deliverance”](http://www.imdb.com/title/tt0068473/) on the Grand Concourse in the Bronx. (“I thought it was a camping movie.”) He entered the theater as a relatively normal 10-year-old, but emerged as a Prepper: “I said to myself, ‘Gee, I should get to learning everything possible to prevent that situation from occurring.’ ”
+
+Acquiring skills over the next two decades from military manuals and from [Soldier of Fortune](http://www.sofmag.com/) magazine, he said he went one day to a course in civil defense hosted by the Federal Emergency Management Agency and recalled being horrified that the government was still relying on “cold war supplies of vienna sausages and five-pound bags of sugar.” His disillusionment led in 1989 to the founding of I.P.N., which seeks to train civilians to be ready for emergencies like cyber attacks and flu pandemics.
+
+It was not by chance, Mr. Edwards said, that prepping first took root in New York in the black community: he himself is black, and in the 1990s he became a frequent guest on [“The Open Line,”](http://wbls.com/Open-Line/13039810) a call-in radio show on the “urban adult” station WBLS. Around the same time, he started giving classes in disaster preparation at the [National Action Network](http://nationalactionnetwork.net/), the Rev. Al Sharpton’s civil rights group. “Obviously,” Mr. Edwards said, “because of our history, black folks know that bad things happen.”
+
+These days, he added, the prepping movement is “the strangest mishmash of people you could ever find — black, white, men, women, everyone. It looks like America.”
+
+In his professional opinion, the next big development in prepping will be the arrival of entrepreneurial capitalists, and this made me think of Fabian Illanes and Roman Zrazhevskiy, two men in their 20s I met at the show-and-tell. Former classmates at George H. Hewlett High School on Long Island, Mr. Illanes and Mr. Zrazhevskiy have been prepping since their teens and recently created [Readytogosurvival.com](http://Readytogosurvival.com), a Prepper Web site that sells prepacked bug-out bags with paramilitary names like the Tactical Traveler ($439.99) and the Covert Defender ($629.99). They told me that they had been visiting Prepper meetings across the New York region in order “to discover their customers.”
+
+Mr. Edwards has also entered the Prepper market, and one day I accompanied him to Westchester to observe a consultation he was doing (at $120 an hour) for Jeff and Joanna Lee Doster, a couple in their 50s recently transplanted from Manhattan. The Dosters — he is a retired marketing executive, and she is the author of [“Celebrity Bedroom Retreats”](http://www.amazon.com/Celebrity-Bedroom-Retreats-Professional-Designers/dp/1592530605) — found themselves without a home during Hurricane Sandy after the poorly timed sale of their apartment on West 57th Street.
+
+“We felt so helpless,” Ms. Doster said as we arrived. “That’s why we called Aton.”
+
+After examining their new house — “Decent elevation, but not too solar-friendly” — Mr. Edwards issued his analysis. The Dosters rely on electric power for their heat and water, and given the prevalence of long winter power failures in their town, Mr. Edwards recommended a 60-gallon [Aquatank](http://aquaflex.net/aquatank/) water-storage mattress for under the bed. He also suggested at least 10 boxes of [Nuvona](http://www.nuvonapremiumfoods.com/) emergency food and advised the couple to invest in two electric bicycles, energy-saving lights (“If you want to get jiggy with it, try the LEDs”) and a rooftop windmill for alternate generation.
+
+“Now your worst-case scenario is that something goes down at Indian Point,” he said, referring to the [nuclear reactor in Buchanan, N.Y](http://www.safesecurevital.com/)., 30 minutes away. “You’re in the peak-injury zone. You’d get a pretty serious dose of radioactive particulates.”
+
+The Dosters looked terrified.
+
+“The good part?” Mr. Edwards reassured them. “This is a rental.”
+
+**PREPPING IS THE BIG SHORT:** a bet not just against a city, or a country or a government, but against the whole idea of sustainable civilization. For that reason, it chafes against one of polite society’s last remaining taboos — that the way we live is not simply plagued by certain problems, but is itself insolubly problematic.
+
+It seemed important to know if this all-encompassing negativity was histrionic or appropriate — that is, if the hard-core Preppers I had met were crazy or were, in fact, on to something. Just before the show-and-tell, I came across a news report about [Dr. Irwin Redlener](http://www.ncdp.mailman.columbia.edu/staff.htm), the director of the National Center for Disaster Preparedness at Columbia University, whom Gov. Andrew M. Cuomo had recently named [to lead a commission](http://www.governor.ny.gov/press/11152012-Emergency-Preparedness) investigating how ready the state was for another Hurricane Sandy-like emergency. I arranged an interview, figuring that he, if anyone, could answer my question.
+
+Although he had a cold when we met at his office in Harlem, Dr. Redlener was a soothing presence — bearded, erudite and open to the notion that ordinary people have a central role in emergency preparedness. The government, he told me, reacted decisively after 9/11, establishing the Department of Homeland Security, so why shouldn’t everyday citizens react?
+
+“It’s impossible to forget that we live in a world vulnerable to hazards, man-made and natural,” he said. “So it’s legitimate to ask: What is the impact on individuals?”
+
+His answer was squarely in line with Prepper doctrine. Dr. Redlener said it was rational — indeed, it was recommended — to have a three-day supply of food and water, a working flashlight, a first-aid kit, a radio that runs without batteries and a plan in place to rejoin one’s relatives after a disaster. He talked about situational awareness, a major Prepper mantra. “A prepared citizen is someone who understands how to take care of himself,” he said, “who has amassed the necessary items, who has a plan.”
+
+When I asked about some of those I had met along the way — say, the geared-up 12-year-old, Leonardo Ruiz Jr., who, dropping his suspicions, later gave his name to a photographer — he gave a forbearing smile. “There’s a spectrum,” Dr. Redlener said. “On one end is mindless complacency. On the other is paranoia. The challenge is to find that place in the middle where you understand that bad things can happen, but it doesn’t consume your life.”
+
+Then he surprised me. I had never heard even a quasi-government official admit that the authorities would not respond promptly in an emergency, but Dr. Redlener said that “gaps” existed during “mega-disasters,” hours, even days, when there might not be an official response.
+
+“The well-being of many, many people in harm’s way will be dependent in those gaps on social networks, on community and on individual preparedness,” he said.
+
+He added, aphoristically, “We are all first responders.”
