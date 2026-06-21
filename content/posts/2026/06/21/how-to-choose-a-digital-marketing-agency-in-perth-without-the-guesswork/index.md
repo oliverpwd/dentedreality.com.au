@@ -5,6 +5,8 @@ categories:
 - tech
 ---
 
+![Two business people shaking hands after agreeing to work together](/images/posts/how-to-choose-a-digital-marketing-agency-in-perth-without-the-guesswork.jpg)
+
 Every business owner in Perth has been pitched the dream at some point. Page one rankings by next month, leads pouring in, a website that prints money. The reality is more grounded, and the agencies worth working with will tell you that up front. Choosing the right partner is less about who promises the most and more about who can show you the receipts.
 
 Start with the track record. Any agency can publish a glossy case study, so the question to ask is whether the results are measurable and verifiable. Look for hard numbers tied to outcomes you actually care about, such as qualified enquiries, booked jobs, or revenue, rather than vanity metrics like impressions. A genuine partner will happily walk you through how a result was achieved and what would happen if you stopped the work tomorrow.

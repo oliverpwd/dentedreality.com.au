@@ -5,6 +5,8 @@ categories:
 - tech
 ---
 
+![A website shown on a laptop with a smartphone beside it](/images/posts/web-design-that-pays-for-itself.jpg)
+
 A website is the hardest-working member of your team, or it should be. It never sleeps, it greets every customer the same way, and it can sell while you are asleep or on the tools. Yet too many business owners treat web design as a cosmetic exercise, judged on whether it looks nice, when the real question is whether it earns its keep. Good design is a commercial investment, and the difference between a site that looks the part and one that drives revenue is enormous.
 
 Start with the job the site is actually meant to do. For most businesses, that is turning visitors into enquiries, bookings, or sales. Every design decision should serve that goal. Clear navigation, an obvious next step on every page, persuasive but honest copy, and calls to action that stand out rather than hide. A beautiful site that leaves visitors unsure what to do next is a failure with good lighting.

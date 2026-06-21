@@ -5,6 +5,8 @@ categories:
 - tech
 ---
 
+![A marketing team reviewing charts and reports together at a desk](/images/posts/what-a-perth-digital-agency-actually-does-beyond-the-buzzwords.jpg)
+
 Ask ten people what a digital agency does and you will get ten different answers. Some picture a team running Facebook ads, others imagine web developers, and a few still think it is all about logos and brochures. The truth is broader and more connected than any single slice. A good agency exists to grow your business through the channels where your customers already spend their time, and to make those channels work together rather than in isolation.
 
 At the foundation sits your website. It is the one asset you fully own, and everything else points back to it. Strong agencies treat web development as a commercial exercise, not just a design one. The site needs to load quickly, work flawlessly on a phone, guide visitors toward a clear action, and be built so search engines can read and trust it. A pretty site that nobody can find, or that takes six seconds to load, is a liability dressed up as an asset.
