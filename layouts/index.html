@@ -2,7 +2,8 @@
 <div id="primary" class="site-content">
   <div id="content" role="main">
     <div id="timeline">
-      {{ range .Paginator.Pages }}
+      {{ $pages := where site.RegularPages "Params.exclude_from_timeline" "!=" true }}
+      {{ range (.Paginate $pages).Pages }}
         {{ partial "article.html" . }}
       {{ end }}
     </div>

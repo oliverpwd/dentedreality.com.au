@@ -1,6 +1,7 @@
 ---
 title: "Web Design That Pays for Itself"
 date: '2026-06-21T13:00:00+08:00'
+exclude_from_timeline: true
 categories:
 - tech
 ---

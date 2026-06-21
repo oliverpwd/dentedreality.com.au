@@ -1,6 +1,7 @@
 ---
 title: "What a Perth Digital Agency Actually Does, Beyond the Buzzwords"
 date: '2026-06-21T10:00:00+08:00'
+exclude_from_timeline: true
 categories:
 - tech
 ---
