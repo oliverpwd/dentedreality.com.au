@@ -1,0 +1,2 @@
+{{- /* Broken images (dead Photon/CDN hotlinks) collapse instead of showing a broken icon. */ -}}
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async" onerror="this.style.display='none'">

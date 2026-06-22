@@ -6,7 +6,7 @@
         <span class="icon-link format-icon"></span>
       {{ else if eq .Params.format "image" }}
         {{ with .Params.image }}
-          <div class="image-grouping"><img src="{{ . }}" alt="{{ $.Title }}"></div>
+          <div class="image-grouping"><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" onerror="this.style.display='none'"></div>
         {{ end }}
       {{ else if eq .Params.format "status" }}
         <span class="icon-location format-icon"></span>
