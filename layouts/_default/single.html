@@ -15,13 +15,13 @@
         <header class="entry-header">
           <h1 class="entry-title">
             {{ if .Params.external_url }}
-              <a href="{{ .Params.external_url }}">{{ .Title }}</a>
+              <a href="{{ .Params.external_url }}"{{ with partial "rel.html" .Params.external_url }} rel="{{ . }}"{{ end }}>{{ .Title }}</a>
             {{ else }}
               {{ .Title }}
             {{ end }}
           </h1>
           {{ with .Params.external_url }}
-            <div class="post-format-link-url"><a href="{{ . }}">{{ . }}</a></div>
+            <div class="post-format-link-url"><a href="{{ . }}"{{ with partial "rel.html" . }} rel="{{ . }}"{{ end }}>{{ . }}</a></div>
           {{ end }}
           {{ with .Params.tags }}
             <ul class="tags">

@@ -6,6 +6,8 @@ subtitle = "An aggregation of Beau Lebens on the internet"
 [params]
   description = "An aggregation of Beau Lebens on the internet"
   author = "Beau Lebens"
+  # Outbound links to these hosts / URL-prefixes stay dofollow; everything else external gets rel="nofollow".
+  dofollow = ["pwd.com.au", "theseocompany.com.au", "webdesignperth.com.au", "agencies.semrush.com/pwd-digital-agency", "au.linkedin.com/company/pwdaus"]
 
 [taxonomies]
   category = "categories"

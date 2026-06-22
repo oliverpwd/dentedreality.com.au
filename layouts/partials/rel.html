@@ -1,0 +1,23 @@
+{{- /* Input: a URL string. Output: "nofollow" for external links not in the dofollow allowlist, else "". */ -}}
+{{- /* Uses string ops (not urls.Parse) so malformed archive URLs can't error the build. */ -}}
+{{- $rel := "" -}}
+{{- $s := . -}}
+{{- if or (hasPrefix $s "http://") (hasPrefix $s "https://") (hasPrefix $s "//") -}}
+  {{- $s = replaceRE "^(https?:)?//" "" $s -}}
+  {{- $s = strings.TrimPrefix "www." $s -}}
+  {{- $hp := index (split (index (split $s "#") 0) "?") 0 -}}
+  {{- $host := index (split $hp "/") 0 -}}
+  {{- if and $host (ne $host "dentedreality.com.au") -}}
+    {{- $allowed := false -}}
+    {{- range site.Params.dofollow -}}
+      {{- $a := strings.TrimPrefix "www." . -}}
+      {{- if in $a "/" -}}
+        {{- if hasPrefix $hp $a -}}{{- $allowed = true -}}{{- end -}}
+      {{- else -}}
+        {{- if or (eq $host $a) (strings.HasSuffix $host (printf ".%s" $a)) -}}{{- $allowed = true -}}{{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if not $allowed -}}{{- $rel = "nofollow" -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $rel -}}
