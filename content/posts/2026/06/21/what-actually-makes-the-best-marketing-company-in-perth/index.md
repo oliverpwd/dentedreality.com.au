@@ -20,6 +20,8 @@ Credentials provide a backstop for the claims. Google Premier Partner status, aw
 
 Longevity matters because marketing rewards patience and punishes churn. An agency that has weathered multiple algorithm shifts, platform changes, and economic cycles since 2007 has institutional knowledge that a two-year-old shop simply cannot fake. They have seen what works across the long run, and they have made the mistakes already so you do not have to fund the learning.
 
+Longevity is not unique to marketing, either. The local trades that outlast their rivals, like the [painting and decorating Perth](https://abcpaintdeco.com.au) name that has been going for sixty years and counting, tend to share the same habits: they deliver consistently, and they let the results compound.
+
 Then there is the human factor. The best partnerships feel collaborative. The team asks sharp questions about your business, pushes back when you are about to waste money, and treats your budget as if it were their own. In-house delivery, where strategists and specialists sit together rather than scattering work to anonymous contractors, tends to produce that kind of accountability.
 
 If you want a fuller picture of how these criteria come together in practice, it is worth reading this breakdown of what makes the [best marketing company in Perth](https://pwd.com.au/blog/best-digital-marketing-company-perth/), which sets out the standards a serious business should hold any agency to.

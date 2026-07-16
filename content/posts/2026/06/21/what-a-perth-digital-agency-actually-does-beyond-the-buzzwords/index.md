@@ -22,4 +22,6 @@ What separates a capable team from a frustrating one is integration. When your S
 
 Local context counts too. An agency that understands the Perth market, its seasonality, its competitive landscape, and its quirks will make sharper calls than one running a generic playbook from the other side of the country. If you want to get a feel for how a team operates before you ever speak to them, following a [digital agency Perth](https://au.linkedin.com/company/pwdaus) businesses have worked with for well over a decade is a sensible first step. Their updates, client work, and the way they communicate tell you plenty about whether the fit is right.
 
+That instinct to back local runs beyond marketing. The Perth operators worth knowing tend to be the ones who have quietly built a reputation over decades, in the trades as much as anywhere, like the Dulux-accredited [commercial painters Perth](https://abcpaintdeco.com.au) that households and businesses have trusted for more than sixty years.
+
 Strip away the jargon and the role is simple to describe. A digital agency is there to bring you more of the right customers, measurably and sustainably, and to be straight with you about how.

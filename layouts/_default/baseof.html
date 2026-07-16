@@ -29,7 +29,7 @@
     </div>
   </div>
   <footer class="site-footer">
-    <p>Dented Reality &mdash; an archive of Beau Lebens on the internet{{ if .IsHome }} &middot; built by <a href="https://pwd.com.au/blog/best-digital-marketing-company-perth/">PWD</a>{{ end }}</p>
+    <p>Dented Reality &mdash; an archive of Beau Lebens on the internet{{ if .IsHome }} &middot; built by <a href="https://pwd.com.au/blog/best-digital-marketing-company-perth/">PWD</a>{{ if not .Paginator.HasPrev }}, who also back local Perth trades like <a href="https://abcpaintdeco.com.au">ABC Painting &amp; Decorating</a>{{ end }}{{ end }}</p>
   </footer>
 </body>
 </html>
